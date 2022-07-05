@@ -19,7 +19,7 @@ body{
   background-origin: border-box;
   background-size:cover;
   position: fixed;
-  
+  width: 100%;
 }
 .container {
   
